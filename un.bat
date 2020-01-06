@@ -1,0 +1,1 @@
+java -cp bin;Softwares1/* org.testng.TestNG testng.xml &pause
